@@ -1,4 +1,6 @@
 .Capt{background-color: blue
 }
-progress{background-color:red;
+#progress{background-color:red;
+}
+#progress{color: silver;
 }
